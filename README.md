@@ -7,9 +7,11 @@ As a budding developer, I'm creating my digital world step by step. I start each
   <p align="left">
       <a href="https://github.com/Javantax?tab=followers">
          <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/Javantax?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-      <a href="https://github.com/Javantax?tab=stars">
+ <!--     <a href="https://github.com/Javantax?tab=stars">
          <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/Javantax?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
-   </p>
+   </p> 
+-->
+   
 ---
 
 ### 🧰 Languages and tools
@@ -26,12 +28,13 @@ As a budding developer, I'm creating my digital world step by step. I start each
 <!-- <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webflow/webflow-original.svg" /> -->
 <br />
 
+#
 
 ### 📊 Stats
 
 [Javantax's GitHub stats](https://github-readme-stats.vercel.app/api?username=javantax&show_icons=true&theme=gruvbox)
 
- [GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5) 
+ <!-- [GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5) -->
 
 #  
 <!-- 
