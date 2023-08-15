@@ -32,7 +32,7 @@ As a budding developer, I'm creating my digital world step by step. I start each
 
 ### 📊 Stats
 
-[Javantax's GitHub stats](https://github-readme-stats.vercel.app/api?username=javantax&show_icons=true&theme=gruvbox)
+![Javantax's GitHub stats](https://github-readme-stats.vercel.app/api?username=javantax&show_icons=true&theme=gruvbox)
 
  <!-- [GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5) -->
 
