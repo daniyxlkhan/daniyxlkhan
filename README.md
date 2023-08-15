@@ -4,6 +4,12 @@
 
 As a budding developer, I'm creating my digital world step by step. I start each coding project from scratch, handling everything from planning and design to using code to tackle real-life challenges. It's an exciting journey of growth and learning as I explore new possibilities and make a positive impact through my creations. I'm thrilled to be on this path, building something meaningful and making a difference with my coding skills!
 
+  <p align="left">
+      <a href="https://github.com/Javantax?tab=followers">
+         <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/Javantax?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+      <a href="https://github.com/Javantax?tab=stars">
+         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/Javantax?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
+   </p>
 ---
 
 ### 🧰 Languages and tools
