@@ -1,4 +1,4 @@
-# 🏄‍♂️ Daniyal Faheem Khan
+# Daniyal Faheem Khan
 
 **`Digital Craftsman (Developer/Student)`**
 
