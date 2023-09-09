@@ -30,7 +30,7 @@ As a budding developer, I'm creating my digital world step by step. I start each
 
 #
 
-### 📊 Stats
+<!-- ### 📊 Stats
 
 ![Javantax's GitHub stats](https://github-readme-stats.vercel.app/api?username=javantax&show_icons=true&theme=gruvbox)
 
