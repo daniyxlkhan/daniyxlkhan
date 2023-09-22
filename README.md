@@ -1,3 +1,14 @@
+<a href="Email: dfkhan32@gmail.com">
+	<div align="center">
+		<br><br><br>
+    	<picture>
+    		<source media="(prefers-color-scheme: dark)" srcset="assets/header_dark.svg">
+    		<source media="(prefers-color-scheme: light)" srcset="assets/header_light.svg">
+    		<img alt="" src="assets/header_light.svg">
+    	</picture>
+    </div>
+</a>
+
 # Daniyal Faheem Khan
 
 **`Digital Craftsman (Developer/Student)`**
