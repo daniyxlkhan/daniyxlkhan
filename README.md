@@ -1,9 +1,10 @@
 <img width="30px" margin="0px" src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif">
 <h1>Hello!, I am <a href="https://github.com/Defcon27">Daniyal</a> <img height="30px" src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430"></h1>
 </h1>
+
 **`Digital Craftsman (Developer/Student)`**
 
-Hello! I'm Daniyal, a student developer with a keen interest in photography. I find joy in capturing moments and exploring the worlds shaped by the sounds I immerse myself in. My curiosity extends to learning about new technologies and the art of creative coding.
+I'm a undergrad student with a keen interest in photography. I find joy in capturing moments and exploring the worlds shaped by the sounds I immerse myself in. My curiosity extends to learning about new technologies and the art of creative coding.
 
   <p align="left">
       <a href="https://github.com/Javantax?tab=followers">
