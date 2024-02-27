@@ -6,15 +6,8 @@
 
 I'm a undergrad student with a keen interest in photography. I find joy in capturing moments and exploring the worlds shaped by the sounds I immerse myself in. My curiosity extends to learning about new technologies and the art of creative coding.
 
-  <p align="left">
-      <a href="https://github.com/Javantax?tab=followers">
-         <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/Javantax?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-    <a href="https://github.com/Javantax?tab=stars">
-         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/Javantax?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
-   </p> 
-
 ### 📬 Find me at
-[![Github Badge](http://img.shields.io/badge/-Github-black?style=flat-square&logo=github&link=https://github.com/Javantax/)]([https://github.com/Javanta])) 
+[![Github Badge](http://img.shields.io/badge/-Github-black?style=flat-square&logo=github&link=https://github.com/Javantax/)](https://github.com/Javantax) 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/daniyxl-khan/)]([https://www.linkedin.com/in/daniyxl-khan/])
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:defcon.sentinal95@gmail.com)](mailto:defcon.sentinal95@gmail.com)
 
