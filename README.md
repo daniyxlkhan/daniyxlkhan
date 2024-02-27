@@ -1,4 +1,4 @@
-# Daniyal Faheem Khan
+# Daniyal Khan
 
 **`Digital Craftsman (Developer/Student)`**
 
