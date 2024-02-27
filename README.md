@@ -2,7 +2,7 @@
 
 **`Digital Craftsman (Developer/Student)`**
 
-As a budding developer, I'm creating my digital world step by step. I start each coding project from scratch, handling everything from planning and design to using code to tackle real-life challenges. It's an exciting journey of growth and learning as I explore new possibilities and make a positive impact through my creations. I'm thrilled to be on this path, building something meaningful and making a difference with my coding skills!
+Hello! I'm Daniyal, a student developer with a keen interest in photography. I find joy in capturing moments and exploring the worlds shaped by the sounds I immerse myself in. My curiosity extends to learning about new technologies and the art of creative coding.
 
   <p align="left">
       <a href="https://github.com/Javantax?tab=followers">
