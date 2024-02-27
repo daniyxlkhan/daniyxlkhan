@@ -1,5 +1,6 @@
-# Daniyal Khan
-
+<img width="30px" margin="0px" src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif">
+<h1>Hello!, I am <a href="https://github.com/Defcon27">Daniyal</a> <img height="30px" src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430"></h1>
+</h1>
 **`Digital Craftsman (Developer/Student)`**
 
 Hello! I'm Daniyal, a student developer with a keen interest in photography. I find joy in capturing moments and exploring the worlds shaped by the sounds I immerse myself in. My curiosity extends to learning about new technologies and the art of creative coding.
@@ -7,12 +8,14 @@ Hello! I'm Daniyal, a student developer with a keen interest in photography. I f
   <p align="left">
       <a href="https://github.com/Javantax?tab=followers">
          <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/Javantax?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
- <!--     <a href="https://github.com/Javantax?tab=stars">
+    <a href="https://github.com/Javantax?tab=stars">
          <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/Javantax?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
    </p> 
--->
-   
----
+
+### 📬 Find me at
+[![Github Badge](http://img.shields.io/badge/-Github-black?style=flat-square&logo=github&link=https://github.com/Javantax/)]([https://github.com/Javanta])) 
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/daniyxl-khan/)]([https://www.linkedin.com/in/daniyxl-khan/])
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:defcon.sentinal95@gmail.com)](mailto:defcon.sentinal95@gmail.com)
 
 ### 🧰 Languages and tools
 
@@ -40,7 +43,7 @@ Hello! I'm Daniyal, a student developer with a keen interest in photography. I f
 
 #
 
-<!-- ### 📊 Stats
+### 📊 Stats
 
 ![Javantax's GitHub stats](https://github-readme-stats.vercel.app/api?username=javantax&show_icons=true&theme=gruvbox)
 
