@@ -9,7 +9,7 @@ I'm a undergrad student with a keen interest in photography. I find joy in captu
 ### 📬 Find me at
 [![Github Badge](http://img.shields.io/badge/-Github-black?style=flat-square&logo=github&link=https://github.com/Javantax/)](https://github.com/Javantax) 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/daniyxl-khan/)]([https://www.linkedin.com/in/daniyxl-khan/])
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:defcon.sentinal95@gmail.com)](mailto:defcon.sentinal95@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:defcon.dfkhan32@gmail.com)](mailto:defcon.dfkhan32@gmail.com)
 
 ### 🧰 Languages and tools
 
