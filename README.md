@@ -8,9 +8,9 @@ I'm a undergrad student with a keen interest in photography. I find joy in captu
 
 ### 📬 Find me at
 [![Github Badge](http://img.shields.io/badge/-Github-black?style=flat-square&logo=github&link=https://github.com/Javantax/)](https://github.com/Javantax) 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/daniyxl-khan/)]([https://www.linkedin.com/in/daniyxl-khan/])
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:defcon.dfkhan32@gmail.com)](mailto:defcon.dfkhan32@gmail.com)
-
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/daniyxl-khan)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dfkhan32@gmail.com)](mailto:dfkhan32@gmail.com)
+<!-- [![Gmail Badge](https://img.shields.io/badge/-dfkhan32@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dfkhan32@gmail.com)](mailto:dfkhan32@gmail.com) -->
 ### 🧰 Languages and tools
 
 <img align="left" alt="C" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg" />
@@ -29,16 +29,44 @@ I'm a undergrad student with a keen interest in photography. I find joy in captu
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />        
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
 <img align="left" alt="Java" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/homebrew/homebrew-original.svg" />
-<img align="left" alt="Java" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
-          
+<img align="left" alt="Java" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" /> 
+<br>
 
-<!-- 
+
 ### 📊 Stats
 
-![Javantax's GitHub stats](https://github-readme-stats.vercel.app/api?username=javantax&show_icons=true&theme=gruvbox)
+<details>
+  <summary><b>⚡ Github Stats</b></summary>
 
+  <br />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=iampavangandhi&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iampavangandhi&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+</details>
 
-#  
+<details>
+  <summary><b>☄️ Github Streaks</b></summary>
+
+  <br />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=iampavangandhi&hide_border=true" />
+</details>
+<!--
+<details>
+  <br />
+  <summary><b>⚙️ Things I use to get stuff done</b></summary>
+  	<ul>
+  	    <li><b>OS:</b> MacOS 14 Sonoma</li>
+	    <li><b>Laptop: </b> Macbook Pro 14 inch M3 Pro</li>
+  	    <li><b>Browser: </b> Chrome </li>
+	    <li><b>Terminal: </b> iterm2 ZSH: Oh My Zsh (PowerLevel10k)</li>
+	    <li><b>Code Editor:</b> VSCode </li>
+ 	    <li><b>Other Tools:</b> Notion, Bitwarden</li>
+	    <li><b>To Stay Updated:</b> Twitter, DevNotes and Hacker News</li>
+	</ul>
+</details>
+-->
+
+#
+
 <!-- 
 <details>
  <summary><h3>👨‍💻 My Coding Journey</h3></summary>
