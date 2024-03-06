@@ -33,7 +33,7 @@ I'm a undergrad student with a keen interest in photography. I find joy in captu
 <br>
 
 
-### 📊 Stats
+<!-- ### 📊 Stats
 
 <details>
   <summary><b>⚡ Github Stats</b></summary>
@@ -49,6 +49,8 @@ I'm a undergrad student with a keen interest in photography. I find joy in captu
   <br />
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=javantax&hide_border=true" />
 </details>
+-->
+
 <!--
 <details>
   <br />
