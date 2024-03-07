@@ -66,7 +66,9 @@ I'm a undergrad student with a keen interest in photography. I find joy in captu
 	</ul>
 </details>
 -->
+<br>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Javantax&layout=compact&theme=dracula&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
 #
 
 <!-- 
