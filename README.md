@@ -65,12 +65,12 @@ I'm a undergrad student with a keen interest in photography. I find joy in captu
 	    <li><b>To Stay Updated:</b> Twitter, DevNotes and Hacker News</li>
 	</ul>
 </details>
--->
+
 <br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Javantax&layout=compact&theme=dracula&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
 #
-
+-->
 <!-- 
 <details>
  <summary><h3>👨‍💻 My Coding Journey</h3></summary>
