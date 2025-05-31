@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋 I'm Daniyal Khan</h1>
 
-# About Me:
 I am a second-year computer science student at University of New Brunswick, passionate about exploring the realms of coding and building robust applications.
 
 ## Connect with me:
