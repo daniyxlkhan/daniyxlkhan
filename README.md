@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋 I'm Daniyal</h1>
+<h1 align="center">Hi, I'm Daniyal</h1>
 
 I am a second-year computer science student at University of New Brunswick, passionate about exploring new technolgies and building robust applications.
 
@@ -23,13 +23,22 @@ I am a second-year computer science student at University of New Brunswick, pass
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
 
 ### Libraries / Frameworks  
-![Play Framework](https://img.shields.io/badge/Play_Framework-2C2255?style=for-the-badge&logo=playwright&logoColor=white) 
-![KnockoutJS](https://img.shields.io/badge/KnockoutJS-7C4DFF?style=for-the-badge&logo=knockout.js&logoColor=white) 
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white) 
-![Bootstrap](https://img.shields.io/badge/Bootstrap-%23563d7c.svg?style=for-the-badge&logo=bootstrap&logoColor=white) 
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Play Framework](https://img.shields.io/badge/Play_Framework-2C2255?style=for-the-badge&logo=scala&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) 
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) 
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+
+![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![KnockoutJS](https://img.shields.io/badge/KnockoutJS-7C4DFF?style=for-the-badge&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-%23563d7c.svg?style=for-the-badge&logo=bootstrap&logoColor=white) 
+
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white) 
+
+
+
+
+
 
 
 
