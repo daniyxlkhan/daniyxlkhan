@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Daniyal</h1>
+<h2 align="center">Hi, I'm Daniyal</h2>
 
 I am a computer science student at University of New Brunswick, passionate about exploring new technolgies and building robust applications.
 
